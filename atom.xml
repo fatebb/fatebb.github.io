@@ -6,7 +6,7 @@
   <link href="https://fatebb.github.io/project/atom.xml" rel="self"/>
   
   <link href="https://fatebb.github.io/project/"/>
-  <updated>2022-02-13T06:55:28.869Z</updated>
+  <updated>2022-02-13T12:15:21.601Z</updated>
   <id>https://fatebb.github.io/project/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>插件的使用</title>
+    <link href="https://fatebb.github.io/project/2022/02/13/cha-jian-de-shi-yong/"/>
+    <id>https://fatebb.github.io/project/2022/02/13/cha-jian-de-shi-yong/</id>
+    <published>2022-02-13T11:25:02.000Z</published>
+    <updated>2022-02-13T12:15:21.601Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\project\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    
+    <category term="-tools" scheme="https://fatebb.github.io/project/tags/tools/"/>
+    
+  </entry>
   
   <entry>
     <title>关于本站</title>
