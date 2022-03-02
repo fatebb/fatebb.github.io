@@ -5,10 +5,10 @@
     
     <entry>
       <title>插件的使用</title>
-      <link href="/project/2022/02/13/cha-jian-de-shi-yong/"/>
-      <url>/project/2022/02/13/cha-jian-de-shi-yong/</url>
+      <link href="/fatebb.github.io/2022/02/13/cha-jian-de-shi-yong/"/>
+      <url>/fatebb.github.io/2022/02/13/cha-jian-de-shi-yong/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\project\assets\css\APlayer.min.css"><script src="\project\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> chrome上的插件可以通过扩展迷EXTFANS网站来下载，网站中包含了许多chrome的插件，并且对于优秀的插件进行了推荐。我们只需要找到自己想要的插件，点击下载即可。</p><p>下载之后我们会获得一个压缩包，对它进行解压，会获得一个crx文件。之后我们需要打开谷歌浏览器，点击右上角的设置，找到扩展程序界面并开启右上角的开发者模式，之后我们只需要将下载好的crx文件用鼠标拖拽到拓展页面即可</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\fatebb.github.io\assets\css\APlayer.min.css"><script src="\fatebb.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> chrome上的插件可以通过扩展迷EXTFANS网站来下载，网站中包含了许多chrome的插件，并且对于优秀的插件进行了推荐。我们只需要找到自己想要的插件，点击下载即可。</p><p>下载之后我们会获得一个压缩包，对它进行解压，会获得一个crx文件。之后我们需要打开谷歌浏览器，点击右上角的设置，找到扩展程序界面并开启右上角的开发者模式，之后我们只需要将下载好的crx文件用鼠标拖拽到拓展页面即可</p>]]></content>
       
       
       
@@ -24,10 +24,10 @@
     
     <entry>
       <title>关于本站</title>
-      <link href="/project/2022/02/13/guan-yu-ben-zhan/"/>
-      <url>/project/2022/02/13/guan-yu-ben-zhan/</url>
+      <link href="/fatebb.github.io/2022/02/13/guan-yu-ben-zhan/"/>
+      <url>/fatebb.github.io/2022/02/13/guan-yu-ben-zhan/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\project\assets\css\APlayer.min.css"><script src="\project\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> “博门客栈”的名字引用于我喜欢的一个说唱歌手mercy的个人频道“谟门客栈”，不仅如此，这四个字中还隐含了博客的意思。我希望通过这个网站来记录我学习的过程，也希望可以去探讨一些编程的技术，软件的使用等等。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\fatebb.github.io\assets\css\APlayer.min.css"><script src="\fatebb.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> “博门客栈”的名字引用于我喜欢的一个说唱歌手mercy的个人频道“谟门客栈”，不仅如此，这四个字中还隐含了博客的意思。我希望通过这个网站来记录我学习的过程，也希望可以去探讨一些编程的技术，软件的使用等等。</p>]]></content>
       
       
       
@@ -43,10 +43,10 @@
     
     <entry>
       <title>浏览器的推荐</title>
-      <link href="/project/2022/02/13/liu-lan-qi-de-tui-jian/"/>
-      <url>/project/2022/02/13/liu-lan-qi-de-tui-jian/</url>
+      <link href="/fatebb.github.io/2022/02/13/liu-lan-qi-de-tui-jian/"/>
+      <url>/fatebb.github.io/2022/02/13/liu-lan-qi-de-tui-jian/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\project\assets\css\APlayer.min.css"><script src="\project\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> 随着网络技术的发展，浏览器的版本也随之不断迭代更新，令人难以抉择。而在市场主流的浏览器之中，我最为推荐的就是谷歌的chrome浏览器。无论是对于国外的必应，Microsoft Edge等浏览器，还是360，搜狐，百度等本土浏览器，在启动速度，UI设计，可扩展性上都有着极大的优势。它的载入页面，启动速度都突出了“快”这个特点。同时它的初始页面足够简洁，不像国内大多浏览器一样，有各种位置的广告，各种强制安装的加载项等。这些可能都不是chrome的最大特点，它最为擅长的是通过各种插件的安装，实现各种各样的功能，例如：万能复制，DarkReader（夜间模式），Rememberry（翻译和记住），uBlock Origin（广告屏蔽）等等功能。通过自定义你的chrome浏览器，你会拥有一个极其出色的上网体验。</p><p> 可惜的是，chrome浏览器在国内无法登录谷歌账号，无法进行同步，不能使用初始的chrome搜索引擎等等功能，除非你会使用魔法实现科学上网。而关于chrome搜索引擎的问题，我们可以在浏览器右上方的设置页面进行修改，在“启动时”页面选定打开特定网页，将百度的网址输入进去。这样我们就可以通过使用百度的搜索引擎实现查询功能。</p><p>chrome有优势也有弊端，不过这些缺点并不会影响它的地位。无论国内国外，chrome无疑是一款极其优秀的浏览器，如果你对自己当前使用的浏览器感到不满，我推荐你体验一下它。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\fatebb.github.io\assets\css\APlayer.min.css"><script src="\fatebb.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> 随着网络技术的发展，浏览器的版本也随之不断迭代更新，令人难以抉择。而在市场主流的浏览器之中，我最为推荐的就是谷歌的chrome浏览器。无论是对于国外的必应，Microsoft Edge等浏览器，还是360，搜狐，百度等本土浏览器，在启动速度，UI设计，可扩展性上都有着极大的优势。它的载入页面，启动速度都突出了“快”这个特点。同时它的初始页面足够简洁，不像国内大多浏览器一样，有各种位置的广告，各种强制安装的加载项等。这些可能都不是chrome的最大特点，它最为擅长的是通过各种插件的安装，实现各种各样的功能，例如：万能复制，DarkReader（夜间模式），Rememberry（翻译和记住），uBlock Origin（广告屏蔽）等等功能。通过自定义你的chrome浏览器，你会拥有一个极其出色的上网体验。</p><p> 可惜的是，chrome浏览器在国内无法登录谷歌账号，无法进行同步，不能使用初始的chrome搜索引擎等等功能，除非你会使用魔法实现科学上网。而关于chrome搜索引擎的问题，我们可以在浏览器右上方的设置页面进行修改，在“启动时”页面选定打开特定网页，将百度的网址输入进去。这样我们就可以通过使用百度的搜索引擎实现查询功能。</p><p>chrome有优势也有弊端，不过这些缺点并不会影响它的地位。无论国内国外，chrome无疑是一款极其优秀的浏览器，如果你对自己当前使用的浏览器感到不满，我推荐你体验一下它。</p>]]></content>
       
       
       
